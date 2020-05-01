@@ -1,6 +1,6 @@
 India	Asia
 United States	Americas
-Pakistan	Asia
+Pakistan	West Asia
 Egypt	Africa
 Nigeria	Africa
 Bangladesh	Asia
@@ -23,22 +23,22 @@ Canada	Americas
 Indonesia	Oceania
 Kenya	Africa
 France	Europe
-Iraq	Asia
+Iraq	West Asia
 Australia	Oceania
 Cambodia	Asia
 Italy	Europe
-Turkey	Asia
+Turkey	West Asia
 Ethiopia	Africa
 Poland	Europe
 Ghana	Africa
 Colombia	Americas
 Romania	Europe
-Israel	Asia
+Israel	West Asia
 Greece	Europe
 Taiwan	Asia
-Afghanistan	Asia
-United Arab Emirates	Asia
-Saudi Arabia	Asia
+Afghanistan	West Asia
+United Arab Emirates	West Asia
+Saudi Arabia	West Asia
 Singapore	Asia
 China	Asia
 Hong Kong	Asia
@@ -47,7 +47,7 @@ Mongolia	Asia
 Belgium	Europe
 Peru	Americas
 Spain	Europe
-Jordan	Asia
+Jordan	West Asia
 Madagascar	Africa
 Ukraine	Europe
 Azerbaijan	Europe
@@ -55,7 +55,7 @@ Sudan	Africa
 Russia	Europe
 Uganda	Africa
 Bulgaria	Europe
-Syria	Asia
+Syria	West Asia
 South Korea	Asia
 Cameroon	Africa
 Portugal	Europe
@@ -71,17 +71,17 @@ Serbia	Europe
 Tanzania	Africa
 Denmark	Europe
 Malawi	Africa
-Iran	Asia
+Iran	West Asia
 Democratic Republic of the Congo	Africa
 Czech Republic	Europe
 Zimbabwe	Africa
 Côte d'Ivoire	Africa
-Lebanon	Asia
+Lebanon	West Asia
 Georgia	Europe
 Bhutan	Asia
-Palestine	Asia
+Palestine	West Asia
 Papua New Guinea	Oceania
-Qatar	Asia
+Qatar	West Asia
 Norway	Europe
 Kuwait	Africa
 Ecuador	Americas
