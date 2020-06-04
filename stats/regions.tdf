@@ -1,6 +1,6 @@
-India	India
-United States	Americas
-Pakistan	West Asia
+India	Asia
+United States	North Americas
+Pakistan	Asia
 Egypt	Africa
 Nigeria	Africa
 Bangladesh	Asia
@@ -8,10 +8,10 @@ Philippines	Oceania
 Thailand	Asia
 Myanmar	Asia
 Morocco	Europe
-Brazil	Americas
+Brazil	South Americas
 United Kingdom	Europe
 Algeria	Africa
-Mexico	Americas
+Mexico	South Americas
 Vietnam	Asia
 Nepal	Asia
 South Africa	Africa
@@ -19,35 +19,35 @@ Malaysia	Asia
 Sri Lanka	Asia
 Germany	Europe
 Tunisia	Africa
-Canada	Americas
+Canada	North Americas
 Indonesia	Oceania
 Kenya	Africa
 France	Europe
-Iraq	West Asia
+Iraq	Asia
 Australia	Oceania
 Cambodia	Asia
 Italy	Europe
-Turkey	West Asia
+Turkey	Asia
 Ethiopia	Africa
 Poland	Europe
 Ghana	Africa
-Colombia	Americas
+Colombia	South Americas
 Romania	Europe
-Israel	West Asia
+Israel	Asia
 Greece	Europe
 Taiwan	Asia
-Afghanistan	West Asia
-United Arab Emirates	West Asia
-Saudi Arabia	West Asia
+Afghanistan	Asia
+United Arab Emirates	Asia
+Saudi Arabia	Asia
 Singapore	Asia
 China	Asia
 Hong Kong	Asia
 Japan	Asia
 Mongolia	Asia
 Belgium	Europe
-Peru	Americas
+Peru	South Americas
 Spain	Europe
-Jordan	West Asia
+Jordan	Asia
 Madagascar	Africa
 Ukraine	Europe
 Azerbaijan	Europe
@@ -55,14 +55,14 @@ Sudan	Africa
 Russia	Europe
 Uganda	Africa
 Bulgaria	Europe
-Syria	West Asia
+Syria	Asia
 South Korea	Asia
 Cameroon	Africa
 Portugal	Europe
 Hungary	Europe
 Somalia	Africa
-Argentina	Americas
-Chile	Americas
+Argentina	South Americas
+Chile	South Americas
 Zambia	Africa
 Netherlands	Europe
 Sweden	Europe
@@ -71,29 +71,31 @@ Serbia	Europe
 Tanzania	Africa
 Denmark	Europe
 Malawi	Africa
-Iran	West Asia
+Iran	Asia
 Democratic Republic of the Congo	Africa
 Czech Republic	Europe
 Zimbabwe	Africa
 Côte d'Ivoire	Africa
-Lebanon	West Asia
+Lebanon	Asia
 Georgia	Europe
 Bhutan	Asia
-Palestine	West Asia
+Palestine	Asia
 Papua New Guinea	Oceania
-Qatar	West Asia
+Qatar	Asia
 Norway	Europe
 Kuwait	Africa
-Ecuador	Americas
+Ecuador	South Americas
 Libya	Africa
 Slovakia	Europe
-Dominican Republic	Americas
+Dominican Republic	South Americas
 Rwanda	Africa
 Kosovo	Europe
-Costa Rica	Americas
+Costa Rica	South Americas
 New Zealand	Oceania
 Finland	Europe
 Switzerland	Europe
 Laos	Asia
 Lithuania	Europe
 Bolivia	Europe
+Uzbekistan	Asia
+Angola	Africa
