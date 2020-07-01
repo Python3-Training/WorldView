@@ -3,6 +3,7 @@
 for every country, as seen in the Facebook-reported 
 country collection. 
 '''
+from collections import OrderedDict
 
 fregions = "./stats/regions.tdf"
 fmembers = "./stats/members.tdf"
