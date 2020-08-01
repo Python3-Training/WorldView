@@ -1,17 +1,17 @@
 India	India
-United States	North Americas
+United States	Americas
 Pakistan	Asia
 Egypt	Africa
 Nigeria	Africa
 Bangladesh	Asia
-Philippines	Oceania
+Philippines	Asia
 Thailand	Asia
 Myanmar	Asia
 Morocco	Europe
-Brazil	South Americas
+Brazil	Americas
 United Kingdom	Europe
 Algeria	Africa
-Mexico	South Americas
+Mexico	Americas
 Vietnam	Asia
 Nepal	Asia
 South Africa	Africa
@@ -19,19 +19,19 @@ Malaysia	Asia
 Sri Lanka	Asia
 Germany	Europe
 Tunisia	Africa
-Canada	North Americas
-Indonesia	Oceania
+Canada	Americas
+Indonesia	Asia
 Kenya	Africa
 France	Europe
 Iraq	Asia
-Australia	Oceania
+Australia	Asia
 Cambodia	Asia
 Italy	Europe
 Turkey	Asia
 Ethiopia	Africa
 Poland	Europe
 Ghana	Africa
-Colombia	South Americas
+Colombia	Americas
 Romania	Europe
 Israel	Asia
 Greece	Europe
@@ -45,7 +45,7 @@ Hong Kong	Asia
 Japan	Asia
 Mongolia	Asia
 Belgium	Europe
-Peru	South Americas
+Peru	Americas
 Spain	Europe
 Jordan	Asia
 Madagascar	Africa
@@ -61,8 +61,8 @@ Cameroon	Africa
 Portugal	Europe
 Hungary	Europe
 Somalia	Africa
-Argentina	South Americas
-Chile	South Americas
+Argentina	Americas
+Chile	Americas
 Zambia	Africa
 Netherlands	Europe
 Sweden	Europe
@@ -80,18 +80,18 @@ Lebanon	Asia
 Georgia	Europe
 Bhutan	Asia
 Palestine	Asia
-Papua New Guinea	Oceania
+Papua New Guinea	Asia
 Qatar	Asia
 Norway	Europe
 Kuwait	Africa
-Ecuador	South Americas
+Ecuador	Americas
 Libya	Africa
 Slovakia	Europe
-Dominican Republic	South Americas
+Dominican Republic	Americas
 Rwanda	Africa
 Kosovo	Europe
-Costa Rica	South Americas
-New Zealand	Oceania
+Costa Rica	Americas
+New Zealand	Asia
 Finland	Europe
 Switzerland	Europe
 Laos	Asia
@@ -101,3 +101,4 @@ Uzbekistan	Asia
 Angola	Africa
 Mozambique	Africa
 Botswana	Africa
+CÃ´te d'Ivoire	Africa

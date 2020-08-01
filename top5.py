@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-''' Top 5: Cobbling together the official 
-pic for the month is a manual process.'''
+''' (obsolete) Top 5: Cobbling together the official 
+pic for the month as a manual process.'''
 
 # Archive Notes:
 # -------------
